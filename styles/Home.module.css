@@ -1,0 +1,41 @@
+.btnBig {
+  background-color: #e86a33;
+  width: 200px;
+  border: 2px solid #e86a33;
+  border-radius: 15px;
+  color: beige;
+}
+
+.btnBig:hover {
+  border-color: #f2e3db;
+}
+
+.btnSmall {
+  background-color: #41644a;
+  border: 2px solid #41644a;
+  border-radius: 15px;
+  color: beige;
+  width: 100px;
+}
+
+.btnSmall:hover {
+  border-color: #f2e3db;
+}
+
+.firstHalf {
+  display: inline-block;
+  width: 50%;
+}
+
+.btnTray {
+  margin-top: 30px;
+}
+
+.secondHalf {
+  display: inline-block;
+  width: 50%;
+}
+
+.displayArea {
+  border: none;
+}
